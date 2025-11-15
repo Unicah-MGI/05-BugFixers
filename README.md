@@ -59,3 +59,7 @@ El propósito del tablero es mantener un control claro del progreso del proyecto
 
 https://trello.com/b/8WZwL4tz/05-bugfixers
 
+## Google Colab 
+se utiliza para conectarse a la base de datos del CRM de la perfumería y ejecutar consultas, como obtener ventas, productos más vendidos, movimientos de inventario o información de clientes. Permite correr el código desde la nube, probar consultas SQL, generar reportes y analizar resultados sin instalar nada en tu computadora.
+
+https://colab.research.google.com/drive/1k4b1xNSutcVTHDfy7WS2lz1-XgJHfd5N?usp=sharing
